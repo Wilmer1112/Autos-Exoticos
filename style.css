@@ -1,0 +1,53 @@
+body{
+    background-image: url(fondo.jpg);
+    background-position: 0% 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1{
+    background-color: rgb(83, 68, 68);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 3em;
+    margin-left: 30%;
+    margin-right:30% ;
+}
+div#f1, div#f2{
+display: flex;
+justify-content: space-between;
+}
+
+fieldset,legend {
+font-size: 1.2em;
+margin-bottom: 1.3em;
+margin: 0.5em 0.5em;
+}
+
+legend{
+    background-color: rgb(83, 68, 68);
+    color: white;
+    padding: 0.3em;
+    font-size: 1.1em;
+}
+
+
+a,h2{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(66, 228, 117);
+    padding: 0.4em;
+    
+    
+}
+
+a:hover{
+    background-color: aquamarine;
+}
+
+footer{
+    color: white;
+}

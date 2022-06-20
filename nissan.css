@@ -1,0 +1,50 @@
+body{
+    background-image: url(nissan.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    background-color: rgba(92, 108, 123, 0.845);
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 00.1em;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.367);
+}
+
+p#p1{
+    background-color: #8080807b;
+    color: white;
+    font-size: 2em;
+    margin-left: 60%;
+    padding: 0.6em;
+    margin-bottom: 4em;
+}
+
+a{
+    font-size: 1.6em;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+}
+
+a:hover{
+    background-color: rgba(255, 255, 255, 0.436);
+    color: rgb(0, 0, 0);
+}
+
+a#a1{
+    margin-left: 1em;
+    padding: 0.1em;
+}
+
+a#a2{
+    padding: 0.1em;
+    margin-left:85%;
+}
